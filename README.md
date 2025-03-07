@@ -1,10 +1,8 @@
 # Typescript REST API Serverless
 
-This project was developed as part of the Code Challenge for Serverless Guru and serves as a base template for building a **TypeScript REST API** using Serverless Framework and DynamoDB. It provides a well-structured, scalable, and maintainable foundation for developing serverless applications.
+It provides a well-structured, scalable, and maintainable foundation for developing serverless applications.
 
-### Food delivery example
-
-The API is structured around a food delivery system, serving as a practical example to demonstrate best practices in serverless development, including:
+The API is structured around a CRUD system, serving as a practical example to demonstrate best practices in serverless development, including:
 
 - Dynamoose ORM for DynamoDB integration;
 - Zod for request validation;
